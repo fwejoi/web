@@ -1,0 +1,92 @@
+body{
+  background-color:#D3D3D3;
+}
+
+#img-div{
+  max-height:100%;
+  background-color:#FFFFFF;
+  margin:20px 10px;
+}
+
+#image{
+  display: block;
+  max-width:100%;
+  width:700px;
+  height:400px;
+  margin:0 auto;
+}
+
+h1{
+  text-align:center;
+  margin_bottom:2px;
+}
+
+h2{
+  text-align:center;
+  margin_top:-5px;
+}
+
+.small_text{
+  font-size:20px;
+  font-color: #C0C0C0;
+}
+
+.large_text{
+  font-size:40px;
+}
+
+#img-caption{
+  text-align:center;
+}
+
+#tribute-info{
+  text-align:center;
+}
+
+ul {
+    list-style-type: disc; 
+    list-style-position: outside; 
+    text-align: center; 
+  }
+  li {
+    text-align: left; 
+    margin-bottom: 50px;
+  }
+
+.bold {
+  font-weight: 800;
+}
+
+.tribute-info {
+  margin: 100px auto; 
+  width: 80%;
+  text-align: left; 
+}
+
+p{
+  text-align:center;
+}
+
+.quote-container {
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+}
+
+.quote {
+    font-size: 0.8em;
+    line-height: 1.0em;
+    margin: 0;
+    padding: 0;
+}
+
+.book-title {
+    color: #555555;
+    font-style: italic;
+    font-size: 0.8em;
+    margin-top: 10px;
+    text-align: right;
+}
